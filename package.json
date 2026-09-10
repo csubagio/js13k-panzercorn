@@ -1,0 +1,20 @@
+{
+  "name": "js13k-panzercorn",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check": "tsc --noEmit",
+    "verify": "npm run check && npm run build"
+  },
+  "devDependencies": {
+    "@types/webxr": "^0.5.24",
+    "acorn": "^8.18.0",
+    "jszip": "^3.10.1",
+    "roadroller": "^2.1.0",
+    "rollup": "^4.62.4",
+    "terser": "^5.50.0",
+    "tslib": "^2.8.1",
+    "typescript": "^6.0.3"
+  }
+}
