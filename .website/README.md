@@ -35,8 +35,10 @@ Fly your magic carpet vertically and horizontally. Your beam is a lock-on weapon
 
 If you're stuck, here are a few things to know:
 * speed and difficulty go up over levels
-* Whalicorn is only lockable when out of water
-* Eaglicorn fires a horizontal beam you must be above or below of
-* Unicorn fires a wall of color directly at you, you must dodge to left or right of it
-* just barely missing rocks awards multiplier points!
-* you get a free heart after a boss!
+* Whalicorn is only lockable out of water
+* Eaglicorn fires a horizontal beam, you must be above or below
+* Unicorn fires directly at you, you must dodge left or right
+* barely missing rocks awards multiplier!
+* free heart after every boss!
+
+You can also play this game, with a leaderboard, at Wavedash! https://wavedash.com/games/panzercorn
